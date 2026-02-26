@@ -8,15 +8,10 @@ theme:
     - search.suggest
     - search.highlight
 nav:
-  - Home: 
-      - Welcome: welcome.md
-      - What Lives Here: what-lives-here.md
-  - How‑tos:
-      - Getting Started: getting-started.md
-      - AWS Credits: aws-credits.md
-      - Getting Help: getting-help.md
-  - Runbooks:
-      - Sample Runbook: sample-runbook.md
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - AWS Credits: aws-credits.md
+  - Getting Help: getting-help.md
 plugins:
   - search
 markdown_extensions:
