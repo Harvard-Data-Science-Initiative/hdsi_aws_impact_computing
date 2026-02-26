@@ -1,38 +1,14 @@
-# Welcome to HDSI AWS Impact Computing
-Let's create applications centered compute solutions for social impact.
+# HDSI AWS Impact Computing
 
-### 1. Data Infrastructure
+Welcome to the HDSI AWS Impact Computing documentation site. This resource helps you navigate AWS solutions for social impact research through Harvard.
 
-The computing and storage backbone that supports your research.
+📋 **[Getting Started](getting-started.md)** - Learn how to access AWS solutions via Harvard, including URC managed environments and direct AWS access options.
 
-Examples: AWS S3 buckets, databases, Redshift, or Weka-backed high-performance storage used by Harvard clusters.
+💳 **[AWS Credits](aws-credits.md)** - Information about obtaining and using AWS credits for your research projects, including the application process and compute planning.
 
-Includes access patterns, versioning, and cloud orchestration.
+🆘 **[Getting Help](getting-help.md)** - Support information, office hours schedule, and contact details for HDSI Data Scientists and AWS Specialists.
 
-### 2. Data Pipelines & Processing
+---
 
-Automated workflows for ingesting, cleaning, transforming, and harmonizing data from multiple sources.
-
-Often modular and reproducible — e.g., Python workflows, Airflow, or AWS Step Functions connecting compute and storage.
-
-### 3. Data Standards & Metadata
-
-Consistent naming, units, and documentation so data is discoverable and reusable.
-
-Think of schema definitions, metadata registries, or FAIR (Findable, Accessible, Interoperable, Reusable) principles.
-
-### 4. Analytical & Machine Learning Layers
-
-The models and algorithms that consume processed data:
-
-Predictive models, simulations, or foundation models.
-
-This layer can include APIs for inference or exploratory notebooks.
-
-### 5. Access, Collaboration, and Reuse
-
-The interfaces that let others interact with the data or model:
-
-APIs, dashboards, data catalogs, or repositories.
-
-
+!!! tip "Quick Navigation"
+    Use the search function (press `/`) to quickly find specific topics, or browse through the navigation menu to explore all available resources.
