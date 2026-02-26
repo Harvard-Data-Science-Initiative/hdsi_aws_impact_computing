@@ -8,7 +8,7 @@ In order to get credits applied, HDSI Data Scientists will work with you on the 
 * Setup a meeting where we can discuss the details of your compute needs. Using the information that I collect in the discussion, I will draft a compute plan.
 * Once the compute plan draft is ready, the information will be passed to AWS partners to translate your compute needs into credits and then make them available for your use.
 
-Please note credits are applied until after the complete plan draft is put together, please look at the diagram below:
+Please note credits are not applied until after the complete plan draft is put together, please look at the diagram below:
 
 ```
 [ Start ]
@@ -26,7 +26,7 @@ Please note credits are applied until after the complete plan draft is put toget
 → Compute Plan summarizes resources, duration, & scaling 
 │
 ▼
-5. Credits Applied as You Progress → POC Michelle Audirac
+4. Credits Applied as You Progress → POC Michelle Audirac
 → **HDSI Data Scientist** requests AWS partner to apply credits
 → Credits loaded in stages tied to project milestones
 

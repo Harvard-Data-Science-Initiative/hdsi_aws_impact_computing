@@ -3,7 +3,7 @@
 ## How do I get support?
 We have office hours where an HDSI Data Scientist can address questions related to your compute plan and an AWS Specialist can answer questions related to AWS solutions.
 
-**Office hours**: starting Wed March 4,2026 from 1:00pm-2:00pm  
+**Office hours**: starting Wed March 4, 2026 from 1:00pm-2:00pm  
 **link**: [https://harvard.zoom.us/j/93367184648](https://harvard.zoom.us/j/93367184648)
 
 Feel free to reach out to michelle_audirac@harvard.edu with questions too!
