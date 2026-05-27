@@ -63,29 +63,6 @@ Through the **Open Data Sponsorship Program**, AWS covers storage and data trans
 | **Documentation** | Metadata, data dictionaries, usage examples |
 | **Scale** | Typically > 1 TB where hosting costs are a real barrier |
 
-### HDSI Dataset Candidates
-
-- **Computational Social Science** — social media corpora, survey microdata, NLP datasets
-- **Biomedical & Genomics** — sequencing data, clinical trials, biobank collections
-- **Climate & Environmental** — satellite derivatives, sensor networks, model outputs
-- **Geospatial & Urban Analytics** — mobility data, infrastructure datasets
-- **AI/ML Benchmarks** — curated training/evaluation datasets
-
----
-
-## Case Study: Purdue University (2026)
-
-Purdue's **Data to Science Initiative (D2S)** joined the program to share UAV geospatial data for agriculture, forestry, and environmental science.
-
-**Results:**
-- USDA WheatCAP dataset (41 breeders, 22 institutions, 20 states) now publicly accessible
-- Researchers access data without downloading — pay only for compute
-- Large-scale training data available for AI innovation
-- Purdue joins NASA, NOAA, and USGS on the Registry
-
-> *"If we want to develop an ecosystem that is scalable and accessible worldwide, AWS will be the best choice."*
-> — Prof. Jinha Jung, Purdue University
-
 ---
 
 ## Recommended Next Steps
