@@ -102,8 +102,8 @@ Purdue's **Data to Science Initiative (D2S)** joined the program to share UAV ge
 
 | Resource | URL |
 |---|---|
-| Registry of Open Data | registry.opendata.aws |
-| Sponsorship Application | application.opendata.aws |
-| GitHub (self-list) | github.com/awslabs/open-data-registry |
-| Program Terms | aws.amazon.com/opendata/open-data-sponsorship-program/terms |
-| AWS Data Exchange | aws.amazon.com/data-exchange |
+| Registry of Open Data | [registry.opendata.aws](https://registry.opendata.aws) |
+| Sponsorship Application | [application.opendata.aws](https://application.opendata.aws) |
+| GitHub (self-list) | [github.com/awslabs/open-data-registry](https://github.com/awslabs/open-data-registry) |
+| Program Terms | [aws.amazon.com/opendata/open-data-sponsorship-program/terms](https://aws.amazon.com/opendata/open-data-sponsorship-program/terms) |
+| AWS Data Exchange | [aws.amazon.com/data-exchange](https://aws.amazon.com/data-exchange) |
