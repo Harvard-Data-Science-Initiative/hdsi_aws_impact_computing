@@ -6,6 +6,8 @@ Welcome to the HDSI AWS Impact Computing documentation site. This resource helps
 
 💳 **[AWS Credits](aws-credits.md)** - Information about obtaining and using AWS credits for your research projects, including the application process and compute planning.
 
+📊 **[AWS Open Data](aws-open-data.md)** - Overview of the AWS Open Data Sponsorship Program, which covers storage and egress costs for high-value research datasets hosted on AWS.
+
 🆘 **[Getting Help](getting-help.md)** - Support information, office hours schedule, and contact details for HDSI Data Scientists and AWS Specialists.
 
 ---

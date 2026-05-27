@@ -12,6 +12,7 @@ nav:
   - Getting Started: getting-started.md
   - AWS Credits: aws-credits.md
   - Getting Help: getting-help.md
+  - AWS Open Data Program: aws-open-data.md
 plugins:
   - search
 markdown_extensions:
