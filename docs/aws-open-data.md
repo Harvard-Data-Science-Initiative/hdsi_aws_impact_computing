@@ -67,11 +67,11 @@ Through the **Open Data Sponsorship Program**, AWS covers storage and data trans
 
 ## Recommended Next Steps
 
-1. **Identify 2-3 candidate datasets** from HDSI research groups
-2. **Assess readiness** — formats, licensing, documentation, size
+1. **Prepare your datasets for publication** formats, licensing, documentation
+2. **Assess readiness** — Share with HDSI Data Scientists for feedback
 3. **Apply** at application.opendata.aws
-4. **Collaborate** with AWS on cloud-optimization
-5. **Launch & promote** — AWS supports blog posts and community engagement
+4. **Deposit** ask our AWS collaborators for recommendations on cloud-optimization
+5. **Launch & promote** — HDSI and AWS supports blog posts and community engagement
 
 ---
 
